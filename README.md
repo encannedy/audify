@@ -9,3 +9,4 @@ If the countdown timer reaches 0 the quiz is over.
 If the user answers all the questions the quiz is over.
 The user's score and initials are then saved after which the high scores will be displayed.
 Also provide a link straight to viewing the high scores page.
+
