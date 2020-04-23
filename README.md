@@ -1,12 +1,19 @@
 Task
-Create a quiz on javascript fundamentalsand keep track of high scores.
-Requirements
-Once the user starts the quiz, present the first question and start the coutdown timer.
-When the user selects an answer, pause the quiz timer and let the user know if the answer right/wrong.
-If the user is wrong, subtract penalty time from the clock.
-After 2 seconds, proceed to the next question and resume the countdown timer.
-If the countdown timer reaches 0 the quiz is over.
-If the user answers all the questions the quiz is over.
-The user's score and initials are then saved after which the high scores will be displayed.
-Also provide a link straight to viewing the high scores page.
 
+Code should populate a question with a timer set for 20 seconds. (Time is set short as I still have not gotten the code to fully work).
+
+Code should run through for loop for each question and then allow for answer to be selected and check the answer.
+
+If answer is correct, correct count increases by one.  
+
+While answer is being checked, game clock should pause.
+
+I did not complete styling of the code as I am still trying to get the full code to work.
+
+If the user is wrong, 2 seconds will be deducted from the game clock. 
+
+Once the game is over, user should be prompted to add their name to the high score list.
+
+I did not get the functionality of the high score.
+
+I did not create a seperate high scores page.
